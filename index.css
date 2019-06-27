@@ -23,3 +23,7 @@ header h1 {
     width: 38%;
     display: inline-block;
 }
+
+section {
+    text-align: center;
+}
